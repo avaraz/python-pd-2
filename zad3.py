@@ -1,0 +1,7 @@
+print("Operatory warunkowe w Pythonie: ")
+print("1. x == y, x równe y")
+print("2. x != y, x nie równe y")
+print("3. x <= y, x mniejsze/równe y")
+print("4. x >= y, x wieksze/równe y")
+print("5. x < y, x mniejsze niż y")
+print("6. x >  y, x większe niż y")
